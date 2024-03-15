@@ -6,6 +6,6 @@
         <title>Exemplo JSP</title>
     </head>
     <body>
-        <h1>Olá Mundo!!!</h1>
+        <h1>Saudação: ${msg}</h1>
     </body>
 </html>
